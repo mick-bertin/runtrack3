@@ -1,0 +1,15 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  height: 4096px;
+}
+footer {
+  position: fixed;
+  bottom: 0px;
+  height: 100px;
+  width: 100%;
+  transition: background-color 0.2s ease;
+}

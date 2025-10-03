@@ -1,0 +1,15 @@
+.conteneurs1,
+.conteneurs2 {
+  height: 400px;
+  width: 80%;
+  border: solid black 1px;
+  /* background: linear-gradient(
+    #e81416,
+    #ffa500,
+    #faeb36,
+    #79c314,
+    #487de7,
+    #4b369d,
+    #70369d
+  ); */
+}
